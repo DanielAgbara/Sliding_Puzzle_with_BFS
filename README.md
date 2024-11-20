@@ -1,10 +1,6 @@
 # Sliding_Puzzle_with_BFS
 Input/Output Specifications
-• Your executable (named "solve" for representation in this document) is going to take two command line
-arguments, first being the name of the input file and the second being the name of the output file. Thus, an
-example call to your program will be as follows:
-./solve input.txt output.txt
-• Input file is going to have the structure explained below. You do not need to make any error check for the
+• The input file is going to have the structure explained below. You do not need to make any error checks for the
 correctness of the input file. You can assume that input specifications are always going to be satisfied by the
 test inputs.
 #k
